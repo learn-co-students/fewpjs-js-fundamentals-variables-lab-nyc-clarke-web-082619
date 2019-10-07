@@ -13,7 +13,7 @@ concepts in to practice. We'll start with variables.
 
 You might notice a few new things in this lesson that you haven't encountered
 before. We'll walk you through them.
-
+ 
 ### Test Driven Behaviors
 
 When we want to run an experiment, we need to develop a hypothesis and we need
